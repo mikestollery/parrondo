@@ -1,4 +1,4 @@
-parrondo/README.txt
+parrondo/README.md
 
 --------
 parrondo
